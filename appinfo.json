@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hellozhengxiaochen@gmail.com",
+    "longName": "MOV_test02",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MOV_test02",
+    "uuid": "2a5f295a-3fab-4b9d-be97-30ab93609f84",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
